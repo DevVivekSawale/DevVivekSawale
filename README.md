@@ -77,9 +77,9 @@
 </div>
 
 ###
-
+<!--
 <img src="https://raw.githubusercontent.com/DevVivekSawale/DevVivekSawale/output/snake.svg" alt="Snake animation" />
-
+-->
 ###
 
 <p align="left"></p>
