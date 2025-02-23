@@ -82,6 +82,7 @@
 
 ###
 
+
 <img src="https://raw.githubusercontent.com/DevVivekSawale/DevVivekSawale/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -99,8 +100,9 @@
 
 ###
 
+<h4 align="left">Resume:</h4>
 
-<img align="left" src="https://avatars.githubusercontent.com/u/147301722?v=4"  />
+<img align="center" src="https://github.com/DevVivekSawale/DevVivekSawale/blob/40bdaa9a371b6e7926351636a8ba7c2d90939f83/Vivek%20sawale%20resume.jpeg?raw=true"  />
 
 ###
 
