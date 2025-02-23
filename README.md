@@ -80,6 +80,9 @@
 <!--
 <img src="https://raw.githubusercontent.com/DevVivekSawale/DevVivekSawale/output/snake.svg" alt="Snake animation" />
 -->
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DevVivekSawale)](https://git.io/streak-stats)
+
 ###
 
 <p align="left"></p>
