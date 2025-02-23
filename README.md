@@ -1,21 +1,17 @@
 <br clear="both">
 
-<p align="center">I’m a Full-Stack Developer with 3.5+ years of experience, specializing in both front-end and back-end technologies. My expertise spans across building scalable web applications, ensuring security, and deploying solutions efficiently.</p>
-
-###
+<h1 align="center">Hi there! 👋</h1>
 
 <br clear="both">
 
-<h1 align="center">Hi there! 👋</h1>
+<p align="center">I’m a Full-Stack Developer with 3.5+ years of experience, specializing in both front-end and back-end technologies. My expertise spans across building scalable web applications, ensuring security, and deploying solutions efficiently.</p>
+
+###
+<br clear="both">
 
 ###
 
 <h3 align="center">🛠 Tech Stack</h3>
-
-###
-
-<br clear="both">
-
 <h4 align="left">Front-End:</h4>
 
 ###
@@ -82,7 +78,6 @@
 
 ###
 
-
 <img src="https://raw.githubusercontent.com/DevVivekSawale/DevVivekSawale/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -90,7 +85,6 @@
 <p align="left"></p>
 
 ###
-
 
 <p align="left"></p>
 
